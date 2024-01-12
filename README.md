@@ -18,5 +18,18 @@ To get Random index - used Math.random() function and declaring let randomcharac
 
  
  Links used :
+ 
 https://www.w3schools.com/js/js_random.asp
+
 https://www.w3schools.com/jsref/jsref_concat_array.asp
+
+
+Link to the deployed application :
+
+https://harsim3221.github.io/Generate-Password/
+
+
+Screenshot of the deployed application:
+
+![Alt text](image-1.png)
+
